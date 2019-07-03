@@ -10,7 +10,6 @@ module.exports = {
     frontMatterFormat: 'yaml',
     systems: [
       'cdn',
-      'conversions',
       'site-delivery',
       'api'
     ]
