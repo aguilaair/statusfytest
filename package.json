@@ -44,10 +44,8 @@
     "url": "https://opencollective.com/statusfy",
     "logoUrl": "https://opencollective.com/statusfy/logo.txt?reverse=true&variant=variant2"
   },
-  {
   "scripts": {
     "now-build": "npm run generate"
   }
-}
 
 }
